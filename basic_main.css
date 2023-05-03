@@ -1,0 +1,17 @@
+nav {
+  padding-bottom: 20px;
+  color: whitesmoke;
+  background-color: red;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+h2{
+  text-align: center;
+}
+.lead{
+  margin-left: 50px;
+  margin-right: 50px;
+}

@@ -1,0 +1,27 @@
+body {
+	background-image: url('basic_body_main.png');
+	background-size: cover;
+	cursor: pointer;
+}
+main {
+	
+	font-family: fantasy;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+	background-image: url('basic_body_footer.png');
+	color:white;
+	
+}

@@ -1,0 +1,37 @@
+nav {
+  padding-bottom: 20px;
+  color: whitesmoke;
+  background-color: red;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  margin-top: 50px;
+}
+h4{
+  text-align: center;
+
+}
+.workout{
+  margin-left: 100px;
+}
+.repeat{
+   margin-left: 250px;
+}
+.lead{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+img{
+  margin-bottom: 50px;
+}

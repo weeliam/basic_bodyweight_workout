@@ -1,0 +1,36 @@
+nav {
+  padding-bottom: 20px;
+  color: whitesmoke;
+  background-color: red;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  margin-top: 50px;
+}
+h4{
+  text-align: center;
+}
+h5{
+  text-align: center;
+}
+
+.lead{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+.list{
+  margin-left: 650px;
+}
+.type{
+  margin: 50px 200px 50px 200px;
+}

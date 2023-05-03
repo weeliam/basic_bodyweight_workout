@@ -1,0 +1,110 @@
+body {
+	background-image: url('body_prac_body.png');
+	background-size: cover;
+	
+	
+
+}
+header{
+	background-image: url('Basic_bodyweight_home.png');
+	background-size: cover;
+	width: 1460px;
+	height: 500px;
+	margin: 0px 20px 0px 20px;
+	box-shadow: 10px 10px 15px #151606;
+}
+
+
+
+
+button {
+	color: whitesmoke;
+	background-color: red;
+	font-family: 'Cinzel Decorative', cursive;
+	padding:0px;
+	margin: 10px 5px 0px 0px;
+	width: 300px;
+	height: 30px;
+	box-shadow: 10px 10px 15px #151606;
+	
+}
+.but1 {
+	transition: all 1s;
+}
+.but2{
+	transition: all 1s;
+}
+.but3{
+	transition: all 1s;
+}
+.but4 {
+
+}
+
+
+.but1:hover {
+
+	transform: scale(1.1);
+
+
+}
+
+.but2:hover {
+
+	transform: scale(1.1);
+}
+
+.but3:hover {
+
+	transform: scale(1.1);
+}
+.but4:hover{
+	transform: scale(1.1);
+
+}
+
+main{
+	background-image: url('body_prac_main1.png');
+	background-size: cover;
+	color: whitesmoke;
+	font-size: 30px;
+
+	margin: 20px 20px 0px 20px;
+	box-shadow: 10px 10px 15px #151606;
+}
+
+h1 {
+	margin: 20px 20px 20px 20px;
+}
+
+p{
+	margin: 20px 20px 50px 20px;
+}
+
+h4{
+	margin: 30px 20px 20px 20px;
+}
+
+
+.but1, .but2, .but3, .but4{
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	margin: 20px 20px 20px 20px;
+	
+}
+.footer {
+	background-image: url('basic_body_footer2.png');
+	background-size: cover;
+	color: whitesmoke;
+	font-size: 30px;
+	width: 1460px;
+	height: 400px;
+	margin: 20px 20px 20px 20px;
+	box-shadow: 10px 10px 15px #151606;
+}
+
+.social{
+	margin-left: 20px;
+}
